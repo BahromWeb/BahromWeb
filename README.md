@@ -43,7 +43,6 @@ Feel free to connect or ask me anything via:
 
 <a href="https://t.me/Bahrom_Xasanov">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30px" />
-</a> **[@Bahrom_Xasanov](https://t.me/Bahrom_Xasanov)**
 
 ---
 
@@ -52,19 +51,3 @@ Feel free to connect or ask me anything via:
 - 🎸 I enjoy playing the guitar when I’m not coding.
 - 📚 I love reading books about **business**, like *Rich Dad Poor Dad*.
 - 🏃‍♂️ I go running to stay active and clear my mind.
-- ⚽ In my free time, I play tennis and football with my best friend **Umid**.
-
----
-
-## 📊 GitHub Stats
-
-![Bahrom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BahromXasanov&show_icons=true&theme=radical)
-
----
-
-## 🧠 Motto
-
-> "Code with passion, learn with purpose, and build with heart."
-
----
-
