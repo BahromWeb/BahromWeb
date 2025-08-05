@@ -41,9 +41,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40px" alt="GitHub" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="40px" alt="Git Bash" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px" alt="VS Code" />
-  <img src="https://avatars.githubusercontent.com/u/16827056?s=280&v=4" width="40px" alt="Three.js" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40px" alt="GitHub" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px" alt="VS Code" />
 </p>
 ---
 
