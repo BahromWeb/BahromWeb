@@ -57,12 +57,14 @@
 📍 **Current Location:** Jizzakh, Uzbekistan  
 💬 **Ask Me Anything:** I'm happy to help  
 📬 **How to Reach Me:**  
-<a href="https://t.me/Bahrom_Xasanov" target="_blank">
+<p align="left">
+  <a href="https://t.me/Bahrom_Xasanov" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25px" /> 
 </a>
 <a href="https://t.me/Bahrom_Xasanov" target="_blank">
  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111421.png" width="25px" />
 </a>
-<a style="margin-right=10px" href="https://t.me/Bahrom_Xasanov" target="_blank">
+<a href="https://t.me/Bahrom_Xasanov" target="_blank">
  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px" />
 </a>
+</p>
