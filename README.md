@@ -35,9 +35,13 @@
   <img src="https://iconape.com/wp-content/png_logo_vector/bootstrap.png" width="40px" alt="Bootstrap" />
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40px" alt="TailwindCSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40px" alt="React.js" />
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-black-and-white.png" width="40px" alt="Redux" />
-  <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="40px" alt="Next.js" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px" alt="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="40px" alt="Redux" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40px" alt="Next.js" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40px" alt="Git" />
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40px" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="40px" alt="Git Bash" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px" alt="VS Code" />
+  <img src="https://avatars.githubusercontent.com/u/16827056?s=280&v=4" width="40px" alt="Three.js" />
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40px" alt="GitHub" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px" alt="VS Code" />
 </p>
