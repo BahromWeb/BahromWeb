@@ -7,11 +7,9 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 I'm currently working in an **IT company** that develops smart devices.
 - 🌐 I focus on building **modern websites and web applications** using the latest web technologies.
 - 📚 I enjoy learning about **JavaScript**, **React.js**, and **UI/UX design**.
 - 🧠 I'm also interested in AI-powered educational platforms and combining **technology + education**.
-- 🎯 My future goal is to **work at Google** and live in **New York City** or **London**.
 
 ---
 
@@ -43,14 +41,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px" alt="VS Code" />
 </p>
 
-## 📈 What I'm Currently Learning
-
-- ✅ Advanced **React.js** and its ecosystem
-- ✅ Building **full-stack** projects using **Node.js**
-- ✅ Writing clean, scalable **JavaScript**
-- ✅ Creating real-world **frontend projects** with animations and API integrations
-- ✅ UI/UX best practices to improve web design
-
 ---
 
 ## 📬 Contact Me
@@ -60,9 +50,6 @@
 <p align="left">
   <a href="https://t.me/Bahrom_Xasanov" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25px" /> 
-</a>
-<a href="https://www.instagram.com/bahrom__xasanov/" target="_blank">
- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111421.png" width="25px" />
 </a>
 <a href="https://www.linkedin.com/in/bahrom-web-2555872a5" target="_blank">
  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px" />
