@@ -63,6 +63,6 @@
 <a href="https://t.me/Bahrom_Xasanov" target="_blank">
  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111421.png" width="25px" />
 </a>
-<a href="https://t.me/Bahrom_Xasanov" target="_blank">
+<a style="margin-right=10px" href="https://t.me/Bahrom_Xasanov" target="_blank">
  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px" />
 </a>
