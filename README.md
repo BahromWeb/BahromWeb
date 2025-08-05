@@ -61,10 +61,10 @@
   <a href="https://t.me/Bahrom_Xasanov" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25px" /> 
 </a>
-<a href="bahrom__xasanov" target="_blank">
+<a href="https://www.instagram.com/bahrom__xasanov/" target="_blank">
  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111421.png" width="25px" />
 </a>
-<a href="in/bahrom-web-2555872a5" target="_blank">
+<a href="https://www.linkedin.com/in/bahrom-web-2555872a5" target="_blank">
  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px" />
 </a>
 </p>
