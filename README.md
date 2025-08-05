@@ -32,11 +32,11 @@
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" width="40px" alt="HTML5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40px" alt="CSS3" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40px" alt="JavaScript" />
-  <img src="https://iconape.com/wp-content/png_logo_vector/bootstrap.png" width="40px" alt="Bootstrap" />
+  <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85b-4d54647f8c22.svg" width="40px" alt="Bootstrap" />
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40px" alt="TailwindCSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40px" alt="React.js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="40px" alt="Redux" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40px" alt="Next.js" />
+  <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d5c06a3-bd35-473a-b4c2-ec5a8d174a3b.svg" width="40px" alt="Next.js" />
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40px" alt="Git" />
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40px" alt="GitHub" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="40px" alt="Git Bash" />
