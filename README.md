@@ -36,7 +36,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40px" alt="TailwindCSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40px" alt="React.js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50px" alt="Redux" />
-  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtw8g.png" width="40px" alt="Next.js" />
+  <img src="https://freeicons.io/wp-content/uploads/2023/11/nextjs-icon.png" width="40px" alt="Next.js" />
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40px" alt="Git" />
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40px" alt="GitHub" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="60px" alt="Git Bash" />
