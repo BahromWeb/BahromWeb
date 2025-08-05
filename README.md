@@ -26,6 +26,22 @@
 | 🌐 Other       | Responsive Design, Flexbox, CSS Grid |
 
 ---
+### 🛠️ Languages and Tools I Work With:
+
+<p align="left">
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" width="40px" alt="HTML5" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40px" alt="CSS3" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40px" alt="JavaScript" />
+  <img src="https://iconape.com/wp-content/png_logo_vector/bootstrap.png" width="40px" alt="Bootstrap" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40px" alt="TailwindCSS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40px" alt="React.js" />
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-black-and-white.png" width="40px" alt="Redux" />
+  <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="40px" alt="Next.js" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px" alt="Git" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40px" alt="GitHub" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px" alt="VS Code" />
+</p>
+---
 
 ## 📈 What I'm Currently Learning
 
@@ -38,8 +54,12 @@
 ---
 
 ## 📬 Contact Me
-
-Feel free to connect or ask me anything via:  <a href="https://t.me/Bahrom_Xasanov">  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30px" />
+📍 **Current Location:** Jizzakh, Uzbekistan  
+💬 **Ask Me Anything:** I'm happy to help  
+📬 **How to Reach Me:**  
+<a href="https://t.me/Bahrom_Xasanov" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25px" /> Telegram - @Bahrom_Xasanov
+</a>
 
 ---
 
