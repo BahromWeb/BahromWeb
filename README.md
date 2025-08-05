@@ -58,5 +58,11 @@
 💬 **Ask Me Anything:** I'm happy to help  
 📬 **How to Reach Me:**  
 <a href="https://t.me/Bahrom_Xasanov" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25px" /> <p>My telegram </p>
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25px" /> 
+</a>
+<a href="https://t.me/Bahrom_Xasanov" target="_blank">
+ <img src="https://cdn-icons-png.flaticon.com/512/2111/2111421.png" width="25px" />
+</a>
+<a href="https://t.me/Bahrom_Xasanov" target="_blank">
+ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px" />
 </a>
