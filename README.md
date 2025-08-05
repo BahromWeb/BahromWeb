@@ -39,7 +39,7 @@
   <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtw8g.png" width="40px" alt="Next.js" />
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40px" alt="Git" />
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40px" alt="GitHub" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="40px" alt="Git Bash" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="80px" alt="Git Bash" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px" alt="VS Code" />
 </p>
 
