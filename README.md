@@ -60,11 +60,3 @@
 <a href="https://t.me/Bahrom_Xasanov" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25px" /> Telegram - @Bahrom_Xasanov
 </a>
-
----
-
-## 📌 Fun Facts
-
-- 🎸 I enjoy playing the guitar when I’m not coding.
-- 📚 I love reading books about **business**, like *Rich Dad Poor Dad*.
-- 🏃‍♂️ I go running to stay active and clear my mind.
