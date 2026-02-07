@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 
 - 🌐 I focus on building **modern websites and web applications** using the latest web technologies.
-- 📚 I enjoy learning about **JavaScript**, **React.js**, and **UI/UX design**.
+- 📚 I enjoy learning about **JavaScript**, **React.js**, and **Vue.js**.
 - 🧠 I'm also interested in AI-powered educational platforms and combining **technology + education**.
 
 ---
